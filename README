@@ -1,26 +1,29 @@
+# Rocket Racing - Giant Bedroom Map
 
-# Rocket Racing: Giant Bedroom Map
-
-## Overview
-
-This project is a custom map developed for *Rocket Racing* using Unreal Editor for Fortnite (UEFN). The map is set in a giant, oversized bedroom where players can race and explore while navigating around enlarged everyday items such as furniture, toys, and personal belongings. The immersive theme provides a fun and visually engaging experience for players as they move through a vibrant and well-designed environment.
+## Project Overview
+This project is a custom map for *Rocket Racing*, developed using Unreal Editor for Fortnite (UEFN). The theme of the map is a **giant bedroom**, where players can explore a creatively designed environment filled with enlarged daily objects. The immersive setting allows for a unique exploration experience, offering a fun and engaging race track that combines familiar items in a whimsical, oversized format.
 
 ## Features
-- **Giant Bedroom Theme:** Explore a highly detailed, oversized bedroom where regular objects are scaled up to create a unique and immersive racing environment.
-- **Custom Map Design:** Every corner of the map has been carefully crafted with attention to detail to enhance the player’s sense of exploration and wonder.
-- **Engaging Gameplay:** Players can race through the map while interacting with and navigating around enlarged items, making it both a visual and gameplay challenge.
+- **Giant Bedroom Theme**: Explore a beautifully detailed bedroom environment with oversized furniture and everyday items.
+- **Immersive Gameplay**: The scale and layout of the room create unique challenges for players as they race through the environment.
+- **UEFN & Verse Scripting**: Developed using UEFN, leveraging scripting with Verse to design interactive elements and dynamic features in the map.
+- **Iterative Playtesting**: Through multiple rounds of playtesting, the map has been fine-tuned to deliver a smooth and enjoyable gameplay experience.
 
-## Technologies Used
-- **Unreal Editor for Fortnite (UEFN):** Used to design, develop, and render the environment.
-- **Verse Scripting:** Implemented for interactive elements and real-time gameplay features.
-  
-## Development Experience
-This project was created during the iSchool Game Jam, where it won the "Most-Liked Game" award. It involved scripting, rendering, and playtesting to ensure a smooth, immersive experience. Iterative feedback from playtesters helped refine the map and optimize gameplay for maximum engagement.
+## Key Highlights
+- **Platform**: Unreal Editor for Fortnite (UEFN)
+- **Scripting Language**: Verse
+- **Game Mode**: Rocket Racing
+- **Theme**: Giant Bedroom with enlarged daily objects and unique exploration elements.
+
+## Development
+The project involved collaborative game design and real-time development using UEFN. The design focused on creating a playful and visually appealing environment that stands out in terms of theme and immersion. Iterative feedback from playtesting allowed us to refine the level for maximum engagement.
 
 ## How to Play
-1. Open Fortnite and navigate to the Rocket Racing game mode.
-2. Use the provided code (or access instructions) to load the Giant Bedroom Map.
-3. Explore, race, and enjoy the interactive environment!
+Players can load the map within *Rocket Racing* and experience the fun of racing through an oversized bedroom, maneuvering around giant furniture and objects.
 
 ## Acknowledgments
-This project was developed as part of the iSchool Game Jam hosted by Epic Games.
+This map was created as part of the iSchool Game Jam, hosted by Epic Games. The project won the "Most-Liked Game" award, and it was a great opportunity to enhance my skills in Unreal Engine and Verse scripting.
+
+## Contact
+For more information, feel free to reach out via email or visit my [GitHub profile](https://github.com/yourprofile).
+
