@@ -1,0 +1,47 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "GaintBedroom",
+	"description": "",
+	"keyArt": "Resources/RRCompetitiveRaceModeTemplateThumbnail.png",
+	"docsUrl": "",
+	"kind": "Island",
+	"compatibilityVersion": "31.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "DelMarGFS",
+	"plugins": [
+		{
+			"name": "MyProjectA",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 16,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		},
+		"experimental":
+		{
+		}
+	},
+	"bindings":
+	{
+		"projectId": "2d8b6350-4de2-b719-59e9-33a88b69cd6f",
+		"projectVersePath": "",
+		"modules":
+		{
+			"MyProjectA": "8426dd56-455f-0fe9-4965-41b26e4b3730"
+		}
+	}
+}
